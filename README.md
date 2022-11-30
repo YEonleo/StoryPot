@@ -1,7 +1,7 @@
 # StoryPot
 GCSWGraduation work
 
-# 요약
+# 추출 요약
 특정 설명무 넣었을때 관련된 그림 + 요약이 되게 출력
 
 Prompt T5형태로 입려 대회때 형식 차출 
