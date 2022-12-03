@@ -4,10 +4,10 @@ GCSWGraduation work
 # 추출 요약
 특정 설명무 넣었을때 관련된 그림 + 요약이 되게 출력
 
-Prompt T5형태로 입려 대회때 형식 차출 
+Bart형태로 입려 대회때 형식 차출 
 
-Input: 분위기와 문장을 요약하시오: form 
-정답라벨: 분위기는 <extra_id_0>이고 요약문은 <extra_id_1>이다
+Input: text
+정답라벨: vivid colors + summary
 
 input 문장들 Token 길이가 평균 800~1000이므로 Input token length는 1024 정답 라벨은 256으로 설정
 
