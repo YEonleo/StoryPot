@@ -13,11 +13,11 @@ NLP Model: https://drive.google.com/file/d/1h5B8mCdGEMNgrbl6RJzje_LrXSdBo1XK/vie
 
 
 @InProceedings{Rombach_2022_CVPR,<br>
-&nbsp&nbsp    author    = {Rombach, Robin and Blattmann, Andreas and Lorenz, Dominik and Esser, Patrick and Ommer, Bj\"orn},<br>
-&nbsp&nbsp    title     = {High-Resolution Image Synthesis With Latent Diffusion Models},<br>
-&nbsp&nbsp    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},<br>
-&nbsp&nbsp    month     = {June},<br>
-&nbsp&nbsp    year      = {2022},<br>
-&nbsp&nbsp    pages     = {10684-10695}<br>
+&nbsp;&nbsp;    author    = {Rombach, Robin and Blattmann, Andreas and Lorenz, Dominik and Esser, Patrick and Ommer, Bj\"orn},<br>
+&nbsp;&nbsp;    title     = {High-Resolution Image Synthesis With Latent Diffusion Models},<br>
+&nbsp;&nbsp;    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},<br>
+&nbsp;&nbsp;    month     = {June},<br>
+&nbsp;&nbsp;    year      = {2022},<br>
+&nbsp;&nbsp;    pages     = {10684-10695}<br>
 }<br>
 
