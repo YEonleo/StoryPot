@@ -9,8 +9,9 @@ NLP Model: https://drive.google.com/file/d/1h5B8mCdGEMNgrbl6RJzje_LrXSdBo1XK/vie
 # Streamlits
 파이썬 라이브러리 Steramlits을 이용하여 구현하였기 때문에 scrpits 폴더내로 이동하여 streamlits ruin ACD.py를 이용하여 테스트 할수있습니다.
 
-# Cite
+# Reference
 
+https://github.com/Stability-AI/stablediffusion
 
 @InProceedings{Rombach_2022_CVPR,<br>
 &nbsp;&nbsp;    author    = {Rombach, Robin and Blattmann, Andreas and Lorenz, Dominik and Esser, Patrick and Ommer, Bj\"orn},<br>
