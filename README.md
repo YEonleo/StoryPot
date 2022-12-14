@@ -11,6 +11,7 @@ NLP Model: https://drive.google.com/file/d/1h5B8mCdGEMNgrbl6RJzje_LrXSdBo1XK/vie
 
 # Cite
 
+---
 @InProceedings{Rombach_2022_CVPR,
     author    = {Rombach, Robin and Blattmann, Andreas and Lorenz, Dominik and Esser, Patrick and Ommer, Bj\"orn},
     title     = {High-Resolution Image Synthesis With Latent Diffusion Models},
@@ -19,3 +20,4 @@ NLP Model: https://drive.google.com/file/d/1h5B8mCdGEMNgrbl6RJzje_LrXSdBo1XK/vie
     year      = {2022},
     pages     = {10684-10695}
 }
+---
