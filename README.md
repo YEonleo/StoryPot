@@ -8,3 +8,14 @@ NLP Model: https://drive.google.com/file/d/1h5B8mCdGEMNgrbl6RJzje_LrXSdBo1XK/vie
 
 # Streamlits
 파이썬 라이브러리 Steramlits을 이용하여 구현하였기 때문에 scrpits 폴더내로 이동하여 streamlits ruin ACD.py를 이용하여 테스트 할수있습니다.
+
+# Cite
+
+@InProceedings{Rombach_2022_CVPR,
+    author    = {Rombach, Robin and Blattmann, Andreas and Lorenz, Dominik and Esser, Patrick and Ommer, Bj\"orn},
+    title     = {High-Resolution Image Synthesis With Latent Diffusion Models},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {10684-10695}
+}
